@@ -68,5 +68,5 @@ streamlit run app.py
 Feel free to fork this repository, make enhancements, and submit a pull request! 💡
 
 Author
-📌 Written by: Faria Mustaqim
+📌By: Faria Mustaqim
 
